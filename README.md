@@ -1,4 +1,4 @@
-# 25BTRAD037_Python
+# 25BTRAD030_Python
 
 Python coursework repository containing lab exercises, problem solving scripts, and experiential learning projects.
 
