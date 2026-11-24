@@ -1,5 +1,5 @@
 # Python Lab Exercises - Tasks 1 to 18
-# Name: HARIKUMARAN S M
+# Name: RISHI RAJ E
 # USN: 25BTRAD030
 
 # Task 1 - Print Name, Department, College
