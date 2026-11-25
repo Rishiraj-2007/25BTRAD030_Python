@@ -58,7 +58,7 @@ print("Programming is Easy")
 
 
 # Task 10 - Create a variable called name
-name = "Hari Kumaran"
+name = "Rishi Raj E"
 print(name)
 
 
